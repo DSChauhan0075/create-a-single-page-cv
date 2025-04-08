@@ -4,6 +4,5 @@
        <h1>Developer Name</h1>
        <h2>Cyber Security Analyst</h2>
       
-       </section>
-     </main>
+     
    </body>
