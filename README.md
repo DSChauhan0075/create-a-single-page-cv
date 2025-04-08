@@ -1,13 +1,13 @@
-  <body>
+<body>
      <header>
-       <h1>Austin Hill</h1>
+       <h1>DS Chauhan Hill</h1>
        <h1>Developer Name</h1>
-       <h2>Software Engineer</h2>
+       <h2>Cyber Security Analyst</h2>
        <div class="contact-info">
          <address>
-           123 Avocado Street<br />
-           Sunshine, AZ 12345
-           <p>(123) 456-7890</p>
+           Haryana<br />
+           121107
+           <p>(816) 823-6561</p>
            <p>no_reply@example.com</p>
          </address>
        </div>
@@ -24,7 +24,7 @@
  
        <section class="education">
          <h3 class="section-title">Education</h3>
-         <h4>Western Governors University, UT - B.S. Computer Science</h4>
+         <h4>Wood Rock Degree Collage B.sc(pcm)</h4>
          <p>
            January 2022 to May 2023<br />
            I gained experience in software engineering by analyzing and
