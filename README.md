@@ -84,8 +84,8 @@
  
        <section class="internet">
          <h3 class="section-title">Across the Internet</h3>
-         <a href="https://austinhill.dev">austinhill.dev</a><br />
-         <a href="https://www.linkedin.com/in/austin-king-hill/">LinkedIn</a><br />
+         <a href="</a><br />
+         <a href="</a><br />
        </section>
      </main>
    </body>
